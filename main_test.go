@@ -4,7 +4,7 @@ import "testing"
 
 func TestSayHello(t *testing.T) {
 	name := "Sanjarbek"
-    expected := "Hello, Sanjar!"
+    expected := "Hello, Sanjarbek!"
 
     actual := SayHello(name)
 
