@@ -3,8 +3,8 @@ package main
 import "testing"
 
 func TestSayHello(t *testing.T) {
-	name := "John Doe"
-    expected := "Hello, John Doe!"
+	name := "Sanjarbek"
+    expected := "Hello, Sanjar!"
 
     actual := SayHello(name)
 
